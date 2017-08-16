@@ -4,7 +4,7 @@ Sample Application using interceptors in Axios
 # Reference Links
 - https://github.com/mzabriskie/axios
 
-# Step
+# Steps
 - Create app 
   react-native init AlbumnsProject
   
